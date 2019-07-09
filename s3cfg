@@ -1,0 +1,4 @@
+[s2-bucket]
+host_base = ss.bscstorage.com
+host = ss.bscstorage.com
+host_bucket = ss.bscstorage.com/%(bucket)
